@@ -1,0 +1,1921 @@
+2025-07-06T00:42:23.070Z [32minfo[39m: Database connected successfuly
+2025-07-06T00:42:23.077Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T00:45:05.900Z [32minfo[39m: Database connected successfuly
+2025-07-06T00:45:05.907Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:00:23.532Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:00:23.539Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:00:28.952Z [32minfo[39m: parse success:
+2025-07-06T01:02:34.227Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:02:34.234Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:02:41.532Z [32minfo[39m: parse success:
+2025-07-06T01:02:41.533Z [32minfo[39m: auth.service:
+2025-07-06T01:03:20.250Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:03:20.257Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:03:25.282Z [32minfo[39m: parse success:
+2025-07-06T01:03:25.282Z [32minfo[39m: auth.service:
+2025-07-06T01:04:18.185Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:04:18.192Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:04:24.949Z [32minfo[39m: parse success:
+2025-07-06T01:04:24.950Z [32minfo[39m: auth.service:
+2025-07-06T01:05:13.957Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:05:13.965Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:05:18.336Z [32minfo[39m: parse success:
+2025-07-06T01:05:18.337Z [32minfo[39m: auth.service:
+2025-07-06T01:07:30.063Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:07:30.071Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:07:33.138Z [32minfo[39m: parse success:
+2025-07-06T01:07:33.139Z [32minfo[39m: auth.service:
+2025-07-06T01:07:33.254Z [32minfo[39m: create method called...
+2025-07-06T01:07:59.577Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:07:59.584Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:08:03.132Z [32minfo[39m: parse success:
+2025-07-06T01:08:03.132Z [32minfo[39m: auth.service:
+2025-07-06T01:08:03.246Z [32minfo[39m: create method called...
+2025-07-06T01:09:20.651Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:09:20.658Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:09:27.682Z [32minfo[39m: parse success:
+2025-07-06T01:09:27.683Z [32minfo[39m: auth.service:
+2025-07-06T01:09:27.805Z [32minfo[39m: create method called...
+2025-07-06T01:09:59.598Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:09:59.605Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:10:12.340Z [32minfo[39m: parse success:
+2025-07-06T01:10:12.341Z [32minfo[39m: auth.service:
+2025-07-06T01:11:55.248Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:11:55.255Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:12:00.025Z [32minfo[39m: parse success:
+2025-07-06T01:12:00.026Z [32minfo[39m: auth.service:
+2025-07-06T01:15:02.636Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:15:02.643Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:15:06.532Z [32minfo[39m: parse success:
+2025-07-06T01:15:06.533Z [32minfo[39m: auth.service:
+2025-07-06T01:18:38.012Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:18:38.019Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:19:26.468Z [32minfo[39m: parse success:
+2025-07-06T01:21:40.919Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:21:40.928Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:21:56.875Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:21:56.882Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:22:02.004Z [32minfo[39m: parse success:
+2025-07-06T01:25:35.056Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:25:35.063Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:25:42.683Z [32minfo[39m: parse success:
+2025-07-06T01:26:41.071Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:26:41.078Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:26:48.375Z [32minfo[39m: parse success:
+2025-07-06T01:32:21.805Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:32:21.812Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:32:32.817Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:32:32.825Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T01:32:53.295Z [32minfo[39m: Database connected successfuly
+2025-07-06T01:32:53.302Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T08:23:16.285Z [32minfo[39m: Database connected successfuly
+2025-07-06T08:23:16.343Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T08:32:46.512Z [32minfo[39m: Database connected successfuly
+2025-07-06T08:32:46.519Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T08:32:53.443Z [31merror[39m: Error: Invalid credentials
+    at loginUser (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\src\services\auth.service.ts:23:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\src\controllers\auth.controller.ts:14:27)
+2025-07-06T08:44:04.732Z [31merror[39m: Error: Invalid credentials
+    at loginUser (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\src\services\auth.service.ts:23:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\src\controllers\auth.controller.ts:14:27)
+2025-07-06T08:45:26.224Z [32minfo[39m: Database connected successfuly
+2025-07-06T08:45:26.231Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T08:45:31.604Z [31merror[39m: Error: Invalid email
+    at loginUser (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\src\services\auth.service.ts:23:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\src\controllers\auth.controller.ts:14:27)
+2025-07-06T08:45:41.282Z [31merror[39m: Error: Invalid password
+    at loginUser (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\src\services\auth.service.ts:26:21)
+    at async login (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\src\controllers\auth.controller.ts:14:27)
+2025-07-06T08:52:23.758Z [32minfo[39m: Database connected successfuly
+2025-07-06T08:52:23.778Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T08:59:54.125Z [32minfo[39m: Database connected successfuly
+2025-07-06T08:59:54.132Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T09:00:38.780Z [32minfo[39m: Database connected successfuly
+2025-07-06T09:00:38.787Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T09:08:03.124Z [32minfo[39m: Database connected successfuly
+2025-07-06T09:08:03.131Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T09:08:51.135Z [32minfo[39m: Database connected successfuly
+2025-07-06T09:08:51.143Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T09:09:37.993Z [32minfo[39m: Database connected successfuly
+2025-07-06T09:09:38.000Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T09:15:00.884Z [32minfo[39m: Database connected successfuly
+2025-07-06T09:15:00.892Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T09:15:50.876Z [32minfo[39m: Database connected successfuly
+2025-07-06T09:15:50.883Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T09:16:12.217Z [32minfo[39m: Database connected successfuly
+2025-07-06T09:16:12.224Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T09:17:53.043Z [32minfo[39m: Database connected successfuly
+2025-07-06T09:17:53.050Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T09:19:14.471Z [32minfo[39m: Database connected successfuly
+2025-07-06T09:19:14.478Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T10:16:56.533Z [32minfo[39m: Database connected successfuly
+2025-07-06T10:16:56.733Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T10:16:57.749Z [31merror[39m: SyntaxError: Bad control character in string literal in JSON at position 13 (line 2 column 12)
+    at JSON.parse (<anonymous>)
+    at parse (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\body-parser\lib\types\json.js:77:19)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\body-parser\lib\read.js:123:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\raw-body\index.js:238:16)
+    at done (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:524:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-07-06T10:17:15.956Z [31merror[39m: Error: Access denied. No token provided.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\src\middleware\auth.middleware.ts:16:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:291:5)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:688:15
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:276:14)
+    at Function.handle (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:186:3)
+    at router (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:60:12)
+2025-07-06T10:17:37.655Z [31merror[39m: Error: Access denied. No token provided.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\src\middleware\auth.middleware.ts:16:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:291:5)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:688:15
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:276:14)
+    at Function.handle (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:186:3)
+    at router (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:60:12)
+2025-07-06T10:17:50.331Z [31merror[39m: Error: Access denied. No token provided.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\src\middleware\auth.middleware.ts:16:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:291:5)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:688:15
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:276:14)
+    at Function.handle (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:186:3)
+    at router (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:60:12)
+2025-07-06T10:19:24.173Z [31merror[39m: Error: Access denied. No token provided.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\src\middleware\auth.middleware.ts:16:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:291:5)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:688:15
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:276:14)
+    at Function.handle (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:186:3)
+    at router (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:60:12)
+2025-07-06T10:19:51.476Z [31merror[39m: Error: Access denied. No token provided.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\src\middleware\auth.middleware.ts:16:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:291:5)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:688:15
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:276:14)
+    at Function.handle (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:186:3)
+    at router (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:60:12)
+2025-07-06T10:20:25.930Z [32minfo[39m: Database connected successfuly
+2025-07-06T10:20:25.937Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T10:23:06.857Z [32minfo[39m: Database connected successfuly
+2025-07-06T10:23:06.865Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T10:23:10.943Z [32minfo[39m: Database connected successfuly
+2025-07-06T10:23:10.950Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T10:23:57.224Z [32minfo[39m: Database connected successfuly
+2025-07-06T10:23:57.231Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T10:28:23.419Z [32minfo[39m: Database connected successfuly
+2025-07-06T10:28:23.490Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T10:29:38.592Z [32minfo[39m: Database connected successfuly
+2025-07-06T10:29:38.599Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T10:29:46.740Z [31merror[39m: Error: Invalid refresh token
+    at refresh (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\src\services\auth.service.ts:41:11)
+    at refreshToken (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\src\controllers\auth.controller.ts:23:28)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:291:5)
+2025-07-06T10:31:37.177Z [32minfo[39m: Database connected successfuly
+2025-07-06T10:31:37.185Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T10:32:46.033Z [32minfo[39m: Database connected successfuly
+2025-07-06T10:32:46.039Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T10:32:57.570Z [32minfo[39m: Database connected successfuly
+2025-07-06T10:32:57.576Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T10:35:16.726Z [32minfo[39m: Database connected successfuly
+2025-07-06T10:35:16.733Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T10:40:52.980Z [32minfo[39m: Database connected successfuly
+2025-07-06T10:40:52.987Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T10:41:10.837Z [32minfo[39m: Database connected successfuly
+2025-07-06T10:41:10.844Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-06T10:41:34.290Z [31merror[39m: Error: Invalid refresh token
+    at refresh (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\src\services\auth.service.ts:41:11)
+    at refreshToken (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\src\controllers\auth.controller.ts:36:30)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\social-micrpblog-api\node_modules\router\index.js:291:5)
+2025-07-07T00:10:49.835Z [32minfo[39m: Database connected successfuly
+2025-07-07T00:10:49.985Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T00:14:16.587Z [31merror[39m: Error
+    at Query.run (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at <anonymous> (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\sequelize.js:650:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async PostgresQueryInterface.select (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\dialects\abstract\query-interface.js:1001:12)
+    at async Function.findAll (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1824:21)
+    at async Function.findOne (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1998:12)
+    at async loginUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\auth.service.ts:23:16)
+    at async login (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\auth.controller.ts:21:46)
+2025-07-07T00:16:29.753Z [32minfo[39m: Database connected successfuly
+2025-07-07T00:16:29.761Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T00:18:17.943Z [32minfo[39m: Database connected successfuly
+2025-07-07T00:18:17.949Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T00:23:29.813Z [32minfo[39m: Database connected successfuly
+2025-07-07T00:23:29.821Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T00:25:44.519Z [32minfo[39m: Database connected successfuly
+2025-07-07T00:25:44.526Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T00:26:26.675Z [32minfo[39m: Database connected successfuly
+2025-07-07T00:26:26.684Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T00:28:08.599Z [32minfo[39m: Database connected successfuly
+2025-07-07T00:28:08.606Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T00:30:19.234Z [32minfo[39m: Database connected successfuly
+2025-07-07T00:30:19.241Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T00:30:28.037Z [32minfo[39m: Database connected successfuly
+2025-07-07T00:30:28.044Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T00:30:33.131Z [31merror[39m: Error
+    at Query.run (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at <anonymous> (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\sequelize.js:650:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async PostgresQueryInterface.select (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\dialects\abstract\query-interface.js:1001:12)
+    at async Function.findAll (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1824:21)
+    at async Function.findOne (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1998:12)
+    at async loginUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\auth.service.ts:23:16)
+    at async login (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\auth.controller.ts:21:46)
+2025-07-07T00:31:20.994Z [31merror[39m: Error
+    at Query.run (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at <anonymous> (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\sequelize.js:650:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async PostgresQueryInterface.insert (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\dialects\abstract\query-interface.js:795:21)
+    at async User.save (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:4154:35)
+    at async Function.create (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:2305:12)
+    at async registerUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\auth.service.ts:12:16)
+    at async register (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\auth.controller.ts:9:47)
+2025-07-07T00:35:00.340Z [32minfo[39m: Database connected successfuly
+2025-07-07T00:35:00.348Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T00:35:52.458Z [31merror[39m: Error: Invalid email
+    at loginUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\auth.service.ts:24:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\auth.controller.ts:21:46)
+2025-07-07T01:14:03.785Z [32minfo[39m: Database connected successfuly
+2025-07-07T01:14:03.794Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T01:45:30.287Z [32minfo[39m: Database connected successfuly
+2025-07-07T01:45:30.294Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T01:49:09.868Z [32minfo[39m: Database connected successfuly
+2025-07-07T01:49:09.875Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T01:50:05.974Z [32minfo[39m: Database connected successfuly
+2025-07-07T01:50:05.983Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T01:53:55.638Z [32minfo[39m: Database connected successfuly
+2025-07-07T01:53:55.646Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T01:59:26.348Z [32minfo[39m: Database connected successfuly
+2025-07-07T01:59:26.355Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T02:02:45.311Z [32minfo[39m: Database connected successfuly
+2025-07-07T02:02:45.318Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T02:03:41.197Z [32minfo[39m: Database connected successfuly
+2025-07-07T02:03:41.204Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T02:05:41.079Z [31merror[39m: Error: Access denied. No token provided.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:16:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:688:15
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:276:14)
+    at Function.handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:186:3)
+    at router (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:60:12)
+2025-07-07T02:06:41.054Z [31merror[39m: Error: Access denied. No token provided.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:16:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:688:15
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:276:14)
+    at Function.handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:186:3)
+    at router (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:60:12)
+2025-07-07T02:07:21.863Z [31merror[39m: Error: data and hash arguments required
+    at Object.compare (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\bcrypt\bcrypt.js:204:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\bcrypt\promises.js:26:12
+    at new Promise (<anonymous>)
+    at Object.promise (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\bcrypt\promises.js:17:12)
+    at Object.compare (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\bcrypt\bcrypt.js:200:25)
+    at loginUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\auth.service.ts:26:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\auth.controller.ts:21:46)
+2025-07-07T04:17:35.745Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:17:35.751Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:17:53.776Z [31merror[39m: Error: data and hash arguments required
+    at Object.compare (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\bcrypt\bcrypt.js:204:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\bcrypt\promises.js:26:12
+    at new Promise (<anonymous>)
+    at Object.promise (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\bcrypt\promises.js:17:12)
+    at Object.compare (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\bcrypt\bcrypt.js:200:25)
+    at loginUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\auth.service.ts:26:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\auth.controller.ts:21:46)
+2025-07-07T04:21:23.731Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:21:23.738Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:21:46.419Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:21:46.427Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:21:54.165Z [31merror[39m: Error: data and hash arguments required
+    at Object.compare (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\bcrypt\bcrypt.js:204:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\bcrypt\promises.js:26:12
+    at new Promise (<anonymous>)
+    at Object.promise (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\bcrypt\promises.js:17:12)
+    at Object.compare (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\bcrypt\bcrypt.js:200:25)
+    at loginUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\auth.service.ts:26:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\auth.controller.ts:27:46)
+2025-07-07T04:22:52.154Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:22:52.161Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:26:31.414Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:26:31.421Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:27:01.424Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:27:01.430Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:27:06.266Z [31merror[39m: data and hash arguments required
+2025-07-07T04:28:58.173Z [31merror[39m: Error: Access denied. No token provided.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:16:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:688:15
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:276:14)
+    at Function.handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:186:3)
+    at router (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:60:12)
+2025-07-07T04:30:14.551Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:30:14.557Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:33:30.359Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:33:30.366Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:36:56.207Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:36:56.214Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:44:13.813Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:44:13.820Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:49:39.591Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:49:39.598Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:52:05.094Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:52:05.101Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:53:02.073Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:53:02.080Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:53:08.896Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:53:08.903Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:53:59.837Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:53:59.844Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:54:57.354Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:54:57.363Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:55:11.271Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:55:11.278Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:57:36.832Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:57:36.839Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:57:41.259Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:57:41.266Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:59:27.513Z [32minfo[39m: Database connected successfuly
+2025-07-07T04:59:27.521Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T04:59:57.685Z [31merror[39m: 重复键违反唯一约束"users_email_key"
+2025-07-07T09:54:03.948Z [32minfo[39m: Database connected successfuly
+2025-07-07T09:54:04.013Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T09:54:15.235Z [31merror[39m: data and hash arguments required
+2025-07-07T09:55:46.773Z [32minfo[39m: Database connected successfuly
+2025-07-07T09:55:46.780Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T09:55:59.963Z [32minfo[39m: [object SequelizeInstance:User]
+2025-07-07T09:55:59.964Z [31merror[39m: data and hash arguments required
+2025-07-07T09:56:57.468Z [32minfo[39m: Database connected successfuly
+2025-07-07T09:56:57.475Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T09:57:01.190Z [32minfo[39m: [object SequelizeInstance:User]
+2025-07-07T09:57:01.191Z [31merror[39m: data and hash arguments required
+2025-07-07T09:57:27.543Z [32minfo[39m: Database connected successfuly
+2025-07-07T09:57:27.550Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T09:57:58.483Z [32minfo[39m: Database connected successfuly
+2025-07-07T09:57:58.491Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T09:58:02.771Z [32minfo[39m: [object SequelizeInstance:User]
+2025-07-07T09:58:02.774Z [31merror[39m: data and hash arguments required
+2025-07-07T09:58:23.275Z [32minfo[39m: Database connected successfuly
+2025-07-07T09:58:23.283Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T09:58:28.368Z [31merror[39m: data and hash arguments required
+2025-07-07T09:58:43.868Z [32minfo[39m: Database connected successfuly
+2025-07-07T09:58:43.875Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T09:58:47.604Z [31merror[39m: data and hash arguments required
+2025-07-07T10:00:12.489Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:00:12.496Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:00:18.004Z [31merror[39m: data and hash arguments required
+2025-07-07T10:00:50.303Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:00:50.310Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:01:01.200Z [31merror[39m: data and hash arguments required
+2025-07-07T10:02:03.946Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:02:03.955Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:02:07.422Z [31merror[39m: data and hash arguments required
+2025-07-07T10:03:10.593Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:03:10.599Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:03:14.779Z [31merror[39m: data and hash arguments required
+2025-07-07T10:04:48.116Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:04:48.128Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:04:50.745Z [31merror[39m: data and hash arguments required
+2025-07-07T10:05:58.453Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:05:58.460Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:06:06.204Z [31merror[39m: data and hash arguments required
+2025-07-07T10:06:40.908Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:06:40.915Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:06:44.825Z [31merror[39m: data and hash arguments required
+2025-07-07T10:08:27.353Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:08:27.360Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:08:30.524Z [31merror[39m: data and hash arguments required
+2025-07-07T10:09:01.931Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:09:01.938Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:09:07.277Z [31merror[39m: data and hash arguments required
+2025-07-07T10:10:01.164Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:10:01.171Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:10:06.860Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:10:06.867Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:10:28.725Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:10:28.732Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:10:30.898Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:10:30.905Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:11:52.645Z [31merror[39m: Invalid password
+2025-07-07T10:13:34.409Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:13:34.416Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:13:40.511Z [31merror[39m: Invalid password
+2025-07-07T10:14:33.746Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:14:33.753Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:15:35.125Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:15:35.132Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:21:16.138Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:21:16.145Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:57:47.180Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:57:47.187Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T10:59:06.530Z [32minfo[39m: Database connected successfuly
+2025-07-07T10:59:06.538Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T11:02:15.978Z [32minfo[39m: Database connected successfuly
+2025-07-07T11:02:15.985Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T11:04:33.993Z [32minfo[39m: Database connected successfuly
+2025-07-07T11:04:34.000Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T11:05:00.073Z [32minfo[39m: Database connected successfuly
+2025-07-07T11:05:00.080Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T11:06:21.011Z [32minfo[39m: Database connected successfuly
+2025-07-07T11:06:21.018Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T11:19:27.221Z [32minfo[39m: Database connected successfuly
+2025-07-07T11:19:27.227Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T11:22:50.043Z [31merror[39m: Error: Access denied. No token provided.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:16:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at cookieParser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\cookie-parser\index.js:71:5)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+2025-07-07T11:23:12.031Z [31merror[39m: Invalid password
+2025-07-07T11:24:11.105Z [31merror[39m: Error: Access denied. No token provided.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:16:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at cookieParser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\cookie-parser\index.js:71:5)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+2025-07-07T11:24:56.273Z [31merror[39m: Error: Access denied. No token provided.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:16:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at cookieParser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\cookie-parser\index.js:71:5)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+2025-07-07T11:28:46.746Z [31merror[39m: Error: Access denied. No token provided.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:16:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at cookieParser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\cookie-parser\index.js:71:5)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+2025-07-07T11:31:06.574Z [31merror[39m: Error: Access denied. No token provided.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:16:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at cookieParser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\cookie-parser\index.js:71:5)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+2025-07-07T11:31:35.844Z [32minfo[39m: Database connected successfuly
+2025-07-07T11:31:35.852Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T11:31:39.658Z [31merror[39m: Error: Access denied. No token provided.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:17:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at cookieParser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\cookie-parser\index.js:71:5)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+2025-07-07T11:32:19.945Z [32minfo[39m: Database connected successfuly
+2025-07-07T11:32:19.952Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T11:32:25.724Z [31merror[39m: Error: Access denied. No token provided.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:17:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at cookieParser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\cookie-parser\index.js:71:5)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+2025-07-07T11:32:50.890Z [32minfo[39m: Database connected successfuly
+2025-07-07T11:32:50.898Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T11:33:04.084Z [32minfo[39m: Database connected successfuly
+2025-07-07T11:33:04.093Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T11:33:06.296Z [31merror[39m: Error: You cannot follow yourself
+    at Function.follow (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\follow.service.ts:7:43)
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:9:25)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+2025-07-07T11:35:26.692Z [31merror[39m: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.send (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\express\lib\response.js:161:12)
+    at ServerResponse.json (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\express\lib\response.js:250:15)
+    at success (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\utils\response.ts:9:28)
+    at getFollowers (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:34:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-07T11:35:34.476Z [31merror[39m: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.send (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\express\lib\response.js:161:12)
+    at ServerResponse.json (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\express\lib\response.js:250:15)
+    at success (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\utils\response.ts:9:28)
+    at getFollowers (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:34:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-07T11:38:01.083Z [32minfo[39m: Database connected successfuly
+2025-07-07T11:38:01.090Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T11:38:05.794Z [32minfo[39m: Database connected successfuly
+2025-07-07T11:38:05.801Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T12:09:57.998Z [32minfo[39m: Database connected successfuly
+2025-07-07T12:09:58.005Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T12:10:23.840Z [32minfo[39m: Database connected successfuly
+2025-07-07T12:10:23.847Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T12:10:50.052Z [32minfo[39m: Database connected successfuly
+2025-07-07T12:10:50.059Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T12:15:26.479Z [32minfo[39m: Database connected successfuly
+2025-07-07T12:15:26.485Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T12:17:44.243Z [32minfo[39m: Database connected successfuly
+2025-07-07T12:17:44.249Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T12:18:42.153Z [32minfo[39m: Database connected successfuly
+2025-07-07T12:18:42.160Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T12:26:49.227Z [32minfo[39m: Database connected successfuly
+2025-07-07T12:26:49.234Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T12:28:07.172Z [32minfo[39m: Database connected successfuly
+2025-07-07T12:28:07.178Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T12:29:46.584Z [32minfo[39m: Database connected successfuly
+2025-07-07T12:29:46.591Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T12:35:03.764Z [32minfo[39m: Database connected successfuly
+2025-07-07T12:35:03.771Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T12:42:55.614Z [32minfo[39m: Database connected successfuly
+2025-07-07T12:42:55.621Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T12:51:11.314Z [32minfo[39m: Database connected successfuly
+2025-07-07T12:51:11.321Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T12:56:22.596Z [32minfo[39m: Database connected successfuly
+2025-07-07T12:56:22.602Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T12:58:23.082Z [32minfo[39m: Database connected successfuly
+2025-07-07T12:58:23.090Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:00:14.031Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:00:14.037Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:03:30.977Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:03:30.984Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:07:46.096Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:07:46.102Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:07:59.526Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:07:59.533Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:12:14.492Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:12:14.499Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:13:03.763Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:13:03.770Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:13:12.112Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:13:12.119Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:14:09.463Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:14:09.470Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:14:41.471Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:14:41.478Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:14:56.550Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:14:56.557Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:14:58.589Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:14:58.596Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:18:25.840Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:18:25.848Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:20:39.306Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:20:39.313Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:23:55.094Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:23:55.101Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:24:49.603Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:24:49.610Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:25:33.738Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:25:33.745Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:35:16.289Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:35:16.298Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:35:50.324Z [31merror[39m: data and hash arguments required
+2025-07-07T13:38:38.633Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:38:38.640Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:44:52.881Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:44:52.888Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:48:43.969Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:48:43.976Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:52:14.752Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:52:14.761Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:53:49.710Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:53:49.717Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:53:55.780Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:53:55.787Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:55:17.403Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:55:17.410Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:55:36.004Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:55:36.011Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:55:44.961Z [32minfo[39m: Database connected successfuly
+2025-07-07T13:55:44.968Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T13:57:10.914Z [31merror[39m: Error
+    at Query.run (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at <anonymous> (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\sequelize.js:650:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async PostgresQueryInterface.select (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\dialects\abstract\query-interface.js:1001:12)
+    at async Function.findAll (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1824:21)
+    at async Function.findOne (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1998:12)
+    at async Function.findByPk (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1955:12)
+    at async Function.findUserById (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\user.service.ts:12:18)
+    at async getUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\user.controller.ts:18:22)
+2025-07-07T13:58:46.435Z [31merror[39m: Error: User not found
+    at Function.getPublicProfile (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\user.service.ts:28:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async getPublicProfile (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\user.controller.ts:64:25)
+2025-07-07T14:13:41.955Z [32minfo[39m: Database connected successfuly
+2025-07-07T14:13:41.962Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T14:17:18.610Z [32minfo[39m: Database connected successfuly
+2025-07-07T14:17:18.618Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T14:21:11.638Z [32minfo[39m: Database connected successfuly
+2025-07-07T14:21:11.645Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T14:21:20.424Z [32minfo[39m: Database connected successfuly
+2025-07-07T14:21:20.430Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T14:24:58.494Z [32minfo[39m: Database connected successfuly
+2025-07-07T14:24:58.501Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T14:31:15.055Z [32minfo[39m: Database connected successfuly
+2025-07-07T14:31:15.062Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T14:33:16.675Z [32minfo[39m: Database connected successfuly
+2025-07-07T14:33:16.683Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T14:33:30.309Z [32minfo[39m: Database connected successfuly
+2025-07-07T14:33:30.316Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T14:34:33.581Z [31merror[39m: Error
+    at Query.run (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at <anonymous> (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\sequelize.js:650:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async PostgresQueryInterface.select (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\dialects\abstract\query-interface.js:1001:12)
+    at async Function.findAll (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1824:21)
+    at async Function.findOne (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1998:12)
+    at async Function.findByPk (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1955:12)
+    at async Function.findUserById (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\user.service.ts:12:18)
+    at async getUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\user.controller.ts:18:22)
+2025-07-07T15:31:54.676Z [32minfo[39m: Database connected successfuly
+2025-07-07T15:31:54.732Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-07T15:40:30.870Z [32minfo[39m: Database connected successfuly
+2025-07-07T15:40:30.877Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T00:16:34.526Z [32minfo[39m: Database connected successfuly
+2025-07-08T00:16:34.594Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T00:17:52.245Z [32minfo[39m: Database connected successfuly
+2025-07-08T00:17:52.252Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T00:18:36.452Z [32minfo[39m: Database connected successfuly
+2025-07-08T00:18:36.460Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T00:22:28.795Z [32minfo[39m: Database connected successfuly
+2025-07-08T00:22:28.802Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T00:22:36.602Z [32minfo[39m: path from req: uploads\uploads\1751933920923-avatar.jpg
+2025-07-08T00:23:45.671Z [32minfo[39m: Database connected successfuly
+2025-07-08T00:23:45.678Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T00:24:03.072Z [32minfo[39m: Database connected successfuly
+2025-07-08T00:24:03.080Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T00:24:06.922Z [32minfo[39m: path from req: \uploads\1751934156533-avatar.jpg
+2025-07-08T00:25:08.504Z [32minfo[39m: Database connected successfuly
+2025-07-08T00:25:08.511Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T00:25:14.708Z [32minfo[39m: path from req: \uploads\1751934246906-avatar.jpg
+2025-07-08T00:26:13.165Z [32minfo[39m: Database connected successfuly
+2025-07-08T00:26:13.173Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T00:26:17.245Z [32minfo[39m: path from req: \uploads\1751934314693-avatar.jpg
+2025-07-08T00:26:17.248Z [31merror[39m: err reading fils: Error: ENOENT: no such file or directory, access 'D:\uploads\1751934314693-avatar.jpg'
+2025-07-08T00:26:53.220Z [32minfo[39m: Database connected successfuly
+2025-07-08T00:26:53.227Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T00:27:01.253Z [32minfo[39m: path from req: D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\uploads\1751934377230-avatar.jpg
+2025-07-08T00:27:01.255Z [31merror[39m: err reading fils: Error: ENOENT: no such file or directory, access 'D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\uploads\1751934377230-avatar.jpg'
+2025-07-08T00:32:03.097Z [32minfo[39m: Database connected successfuly
+2025-07-08T00:32:03.104Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T00:32:09.371Z [32minfo[39m: path from req: D:\uploads\1751934421206-avatar.jpg
+2025-07-08T00:32:09.399Z [31merror[39m: err reading fils: Error: ENOENT: no such file or directory, access 'D:\uploads\1751934421206-avatar.jpg'
+2025-07-08T00:32:57.033Z [32minfo[39m: Database connected successfuly
+2025-07-08T00:32:57.041Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T00:33:01.724Z [32minfo[39m: path from req: D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\uploads\1751934729354-avatar.jpg
+2025-07-08T00:33:01.727Z [31merror[39m: err reading fils: null
+2025-07-08T00:33:01.728Z [32minfo[39m: no err...
+2025-07-08T00:35:16.369Z [32minfo[39m: Database connected successfuly
+2025-07-08T00:35:16.376Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T00:35:20.407Z [32minfo[39m: path from req: D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\uploads\1751934781708-avatar.jpg
+2025-07-08T00:35:20.409Z [31merror[39m: err reading fils: Error: ENOENT: no such file or directory, access 'D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\uploads\1751934781708-avatar.jpg'
+2025-07-08T00:35:46.245Z [32minfo[39m: path from req: D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\uploads\1751934920390-avatar.jpg
+2025-07-08T00:35:46.247Z [31merror[39m: err reading fils: null
+2025-07-08T00:35:56.656Z [32minfo[39m: path from req: D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\uploads\1751934946150-avatar.jpg
+2025-07-08T00:35:56.658Z [31merror[39m: err reading fils: null
+2025-07-08T00:43:33.071Z [32minfo[39m: Database connected successfuly
+2025-07-08T00:43:33.078Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T00:47:30.789Z [32minfo[39m: Database connected successfuly
+2025-07-08T00:47:30.797Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T00:47:49.926Z [32minfo[39m: Database connected successfuly
+2025-07-08T00:47:49.934Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T00:57:17.497Z [32minfo[39m: Database connected successfuly
+2025-07-08T00:57:17.556Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:10:18.105Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:10:18.114Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:10:37.644Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:10:37.652Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:12:29.810Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:12:29.818Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:13:42.269Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:13:42.276Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:13:59.380Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:13:59.387Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:15:10.580Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:15:10.588Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:22:18.039Z [31merror[39m: Error
+    at Query.run (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at <anonymous> (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\sequelize.js:650:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async PostgresQueryInterface.select (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\dialects\abstract\query-interface.js:1001:12)
+    at async Function.findAll (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1824:21)
+    at async Function.findOne (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1998:12)
+    at async Function.findByPk (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1955:12)
+    at async Function.updateUserPassword (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\user.service.ts:11:18)
+    at async updateUserPassword (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\user.controller.ts:115:22)
+2025-07-08T01:24:58.003Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:24:58.023Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:25:08.270Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:25:08.277Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:25:13.976Z [31merror[39m: Error
+    at Query.run (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at <anonymous> (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\sequelize.js:650:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async PostgresQueryInterface.select (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\dialects\abstract\query-interface.js:1001:12)
+    at async Function.findAll (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1824:21)
+    at async Function.findOne (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1998:12)
+    at async Function.findByPk (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1955:12)
+    at async Function.updateUserPassword (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\user.service.ts:11:18)
+    at async updateUserPassword (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\user.controller.ts:115:22)
+2025-07-08T01:26:23.088Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:26:23.095Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:26:26.497Z [32minfo[39m: id in service: NaN
+2025-07-08T01:26:26.533Z [31merror[39m: Error
+    at Query.run (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at <anonymous> (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\sequelize.js:650:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async PostgresQueryInterface.select (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\dialects\abstract\query-interface.js:1001:12)
+    at async Function.findAll (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1824:21)
+    at async Function.findOne (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1998:12)
+    at async Function.findByPk (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\sequelize\src\model.js:1955:12)
+    at async Function.updateUserPassword (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\user.service.ts:12:18)
+    at async updateUserPassword (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\user.controller.ts:115:22)
+2025-07-08T01:27:53.812Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:27:53.820Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:30:37.130Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:30:37.138Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:30:40.328Z [32minfo[39m: id in service: 1
+2025-07-08T01:30:40.345Z [31merror[39m: Error: Wrong password
+    at Function.updateUserPassword (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\user.service.ts:15:24)
+    at async updateUserPassword (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\user.controller.ts:116:22)
+2025-07-08T01:31:23.466Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:31:23.473Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:32:08.358Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:32:08.365Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:33:11.402Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:33:11.410Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:33:24.374Z [31merror[39m: Error: data and hash arguments required
+    at Object.compare (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\bcrypt\bcrypt.js:204:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\bcrypt\promises.js:26:12
+    at new Promise (<anonymous>)
+    at Object.promise (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\bcrypt\promises.js:17:12)
+    at Object.compare (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\bcrypt\bcrypt.js:200:25)
+    at Function.updateUserPassword (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\user.service.ts:15:34)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateUserPassword (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\user.controller.ts:115:22)
+2025-07-08T01:35:20.216Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:35:20.223Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:35:48.107Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:35:48.115Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:35:53.029Z [31merror[39m: Error: Wrong password
+    at Function.updateUserPassword (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\user.service.ts:16:24)
+    at async updateUserPassword (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\user.controller.ts:115:22)
+2025-07-08T01:38:07.242Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:38:07.250Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:40:36.384Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:40:36.392Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:41:50.692Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:41:50.699Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:43:34.778Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:43:34.785Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:45:16.728Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:45:16.735Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:45:27.399Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:45:27.405Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T01:49:59.943Z [32minfo[39m: Database connected successfuly
+2025-07-08T01:49:59.950Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T10:57:15.214Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T10:58:51.613Z [31merror[39m: Model not initialized: Member "create" cannot be called. "User" needs to be added to a Sequelize instance.
+2025-07-08T11:05:43.381Z [31merror[39m: Model not initialized: Member "create" cannot be called. "User" needs to be added to a Sequelize instance.
+2025-07-08T11:24:15.925Z [31merror[39m: Model not initialized: Member "create" cannot be called. "User" needs to be added to a Sequelize instance.
+2025-07-08T11:25:23.919Z [31merror[39m: Model not initialized: Member "create" cannot be called. "User" needs to be added to a Sequelize instance.
+2025-07-08T11:26:25.195Z [31merror[39m: Model not initialized: Member "create" cannot be called. "User" needs to be added to a Sequelize instance.
+2025-07-08T11:35:58.259Z [31merror[39m: Model not initialized: Member "create" cannot be called. "User" needs to be added to a Sequelize instance.
+2025-07-08T11:37:07.551Z [31merror[39m: Model not initialized: Member "create" cannot be called. "User" needs to be added to a Sequelize instance.
+2025-07-08T11:38:30.204Z [31merror[39m: Model not initialized: Member "create" cannot be called. "User" needs to be added to a Sequelize instance.
+2025-07-08T11:41:38.026Z [32minfo[39m: Database connected successfuly
+2025-07-08T11:41:38.045Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T12:12:30.007Z [31merror[39m: Validation error
+2025-07-08T12:16:38.395Z [31merror[39m: Validation error
+2025-07-08T12:19:11.537Z [31merror[39m: Validation error
+2025-07-08T12:19:11.647Z [31merror[39m: Validation error
+2025-07-08T12:20:16.850Z [31merror[39m: Validation error
+2025-07-08T12:20:16.962Z [31merror[39m: Validation error
+2025-07-08T12:20:16.971Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T12:23:28.338Z [31merror[39m: Validation error
+2025-07-08T12:23:28.448Z [31merror[39m: Validation error
+2025-07-08T12:23:28.457Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T12:24:21.244Z [31merror[39m: Validation error
+2025-07-08T12:24:21.359Z [31merror[39m: Validation error
+2025-07-08T12:24:21.368Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T12:27:27.701Z [31merror[39m: Validation error
+2025-07-08T12:27:27.814Z [31merror[39m: Validation error
+2025-07-08T12:27:27.822Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T12:27:28.062Z [31merror[39m: Invalid password
+2025-07-08T12:37:07.653Z [31merror[39m: Invalid email
+2025-07-08T12:43:36.554Z [32minfo[39m: Database connected successfuly
+2025-07-08T12:43:36.561Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T12:47:30.428Z [31merror[39m: Invalid email
+2025-07-08T12:48:19.237Z [31merror[39m: Invalid email
+2025-07-08T12:48:19.497Z [31merror[39m: Validation error
+2025-07-08T12:48:19.621Z [31merror[39m: Validation error
+2025-07-08T12:48:19.629Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T12:48:19.871Z [31merror[39m: Invalid password
+2025-07-08T12:48:19.880Z [31merror[39m: Error: Invalid or expired token.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:25:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at Function.handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:186:3)
+    at router (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:60:12)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+2025-07-08T12:53:20.364Z [31merror[39m: Invalid email
+2025-07-08T12:53:20.375Z [32minfo[39m: null
+2025-07-08T12:53:20.612Z [31merror[39m: Validation error
+2025-07-08T12:53:20.725Z [31merror[39m: Validation error
+2025-07-08T12:53:20.733Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T12:53:20.960Z [31merror[39m: Invalid password
+2025-07-08T12:53:20.970Z [31merror[39m: Error: Invalid or expired token.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:25:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at Function.handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:186:3)
+    at router (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:60:12)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+2025-07-08T13:07:59.854Z [31merror[39m: Invalid email
+2025-07-08T13:08:00.104Z [31merror[39m: Validation error
+2025-07-08T13:08:00.218Z [31merror[39m: Validation error
+2025-07-08T13:08:00.227Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T13:08:00.454Z [31merror[39m: Invalid password
+2025-07-08T13:08:00.463Z [31merror[39m: Error: Invalid or expired token.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:25:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at Function.handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:186:3)
+    at router (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:60:12)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+2025-07-08T13:20:42.553Z [31merror[39m: Invalid email
+2025-07-08T13:20:42.805Z [31merror[39m: Validation error
+2025-07-08T13:20:42.922Z [31merror[39m: Validation error
+2025-07-08T13:20:42.930Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T13:20:43.175Z [31merror[39m: Invalid password
+2025-07-08T13:20:43.185Z [31merror[39m: Error: Invalid or expired token.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:25:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at Function.handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:186:3)
+    at router (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:60:12)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+2025-07-08T13:32:46.660Z [31merror[39m: Invalid email
+2025-07-08T13:32:46.909Z [31merror[39m: Validation error
+2025-07-08T13:32:47.022Z [31merror[39m: Validation error
+2025-07-08T13:32:47.031Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T13:32:47.261Z [31merror[39m: Invalid password
+2025-07-08T13:32:47.272Z [31merror[39m: Error: Invalid or expired token.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:25:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at Function.handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:186:3)
+    at router (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:60:12)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+2025-07-08T13:35:28.169Z [31merror[39m: Invalid email
+2025-07-08T13:35:28.424Z [31merror[39m: Validation error
+2025-07-08T13:35:28.541Z [31merror[39m: Validation error
+2025-07-08T13:35:28.550Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T13:35:28.781Z [31merror[39m: Invalid password
+2025-07-08T13:35:28.791Z [31merror[39m: Error: Invalid or expired token.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:25:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at Function.handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:186:3)
+    at router (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:60:12)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+2025-07-08T13:37:14.200Z [31merror[39m: Invalid email
+2025-07-08T13:37:14.458Z [31merror[39m: Validation error
+2025-07-08T13:37:14.629Z [31merror[39m: Validation error
+2025-07-08T13:37:14.638Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T13:37:14.861Z [31merror[39m: Invalid password
+2025-07-08T13:37:14.871Z [31merror[39m: Error: Invalid or expired token.
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:25:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:297:9
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at Function.handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:186:3)
+    at router (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:60:12)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:342:13)
+2025-07-08T13:40:41.125Z [31merror[39m: Validation error
+2025-07-08T13:40:41.245Z [31merror[39m: Validation error
+2025-07-08T13:40:41.361Z [31merror[39m: Validation error
+2025-07-08T13:40:41.370Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T13:40:41.605Z [31merror[39m: Invalid password
+2025-07-08T13:45:28.521Z [31merror[39m: Validation error
+2025-07-08T13:45:28.633Z [31merror[39m: Validation error
+2025-07-08T13:45:28.641Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T13:49:15.605Z [31merror[39m: Validation error
+2025-07-08T13:49:15.727Z [31merror[39m: Validation error
+2025-07-08T13:49:15.736Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T13:52:20.701Z [31merror[39m: Validation error
+2025-07-08T13:52:20.823Z [31merror[39m: Validation error
+2025-07-08T13:52:20.831Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T13:53:15.736Z [31merror[39m: Validation error
+2025-07-08T13:53:15.861Z [31merror[39m: Validation error
+2025-07-08T13:53:15.869Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T14:08:57.220Z [31merror[39m: Validation error
+2025-07-08T14:08:57.387Z [31merror[39m: Validation error
+2025-07-08T14:08:57.396Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T14:10:48.756Z [31merror[39m: Validation error
+2025-07-08T14:10:48.884Z [31merror[39m: Validation error
+2025-07-08T14:10:48.894Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T14:13:04.890Z [31merror[39m: Validation error
+2025-07-08T14:13:05.003Z [31merror[39m: Validation error
+2025-07-08T14:13:05.013Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T14:19:58.175Z [31merror[39m: Validation error
+2025-07-08T14:19:58.297Z [31merror[39m: Validation error
+2025-07-08T14:19:58.307Z [31merror[39m: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "username"
+    ],
+    "message": "Required"
+  }
+]
+2025-07-08T14:57:05.086Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T14:59:20.150Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T15:02:23.419Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T15:03:22.275Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T15:05:06.155Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T15:06:28.825Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T15:06:28.846Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'id')
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:7:42)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:664:3)
+2025-07-08T15:09:56.309Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T15:09:56.330Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'id')
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:7:42)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:664:3)
+2025-07-08T15:10:23.759Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T15:10:23.781Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'id')
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:8:42)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:664:3)
+2025-07-08T15:11:52.977Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T15:11:52.998Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'id')
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:7:54)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:664:3)
+2025-07-08T15:13:27.376Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T15:13:27.397Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'id')
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:8:42)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:664:3)
+2025-07-08T15:16:11.224Z [32minfo[39m: Database connected successfuly
+2025-07-08T15:16:11.270Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T15:16:40.250Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'id')
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:8:42)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:664:3)
+2025-07-08T15:17:16.188Z [31merror[39m: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.send (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\express\lib\response.js:161:12)
+    at ServerResponse.json (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\express\lib\response.js:250:15)
+    at success (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\utils\response.ts:9:28)
+    at getFollowers (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:35:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-08T15:20:10.330Z [32minfo[39m: Database connected successfuly
+2025-07-08T15:20:10.339Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-08T15:21:33.165Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T15:21:33.189Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'id')
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:8:42)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:664:3)
+2025-07-08T15:25:10.105Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T15:25:10.131Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'id')
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:8:42)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:664:3)
+2025-07-08T15:30:07.722Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:24:5)
+2025-07-08T15:30:07.743Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'id')
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:8:42)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:664:3)
+2025-07-08T15:53:30.854Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:24:5)
+2025-07-08T15:53:30.874Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'id')
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:9:29)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:664:3)
+2025-07-08T16:02:15.085Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T16:02:15.107Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'id')
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:8:29)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:664:3)
+2025-07-08T16:07:42.653Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T16:07:42.673Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'id')
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:8:29)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:664:3)
+2025-07-08T16:13:05.251Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T16:14:47.647Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T16:14:47.667Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'id')
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:8:29)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:664:3)
+2025-07-08T23:39:30.178Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T23:39:30.197Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'id')
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:8:29)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:664:3)
+2025-07-08T23:56:37.295Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T23:56:37.313Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'id')
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:11:29)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:664:3)
+2025-07-08T23:58:28.512Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-08T23:58:28.535Z [31merror[39m: Error: You cannot follow yourself
+    at Function.follow (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\follow.service.ts:7:43)
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:13:25)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+2025-07-08T23:59:12.640Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-09T00:03:54.403Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-09T00:07:27.037Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-09T00:09:53.487Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-09T00:09:53.524Z [31merror[39m: Error: You cannot follow yourself
+    at Function.follow (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\follow.service.ts:7:43)
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:10:25)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+2025-07-09T00:12:39.502Z [31merror[39m: Error: Forbidden: Insufficient permissions
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\requireRole.ts:9:19
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at processParams (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:582:12)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:291:5)
+    at authenticateToken (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\middleware\auth.middleware.ts:23:5)
+2025-07-09T00:12:39.546Z [31merror[39m: Error: You cannot follow yourself
+    at Function.follow (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\services\follow.service.ts:7:43)
+    at followUser (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\src\controllers\follow.controller.ts:10:25)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at next (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\route.js:117:3)
+    at handle (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\lib\layer.js:152:17)
+    at D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:295:15
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:600:14)
+    at param (D:\NODE\PORTFOLIO-PROJECTS\codes\min-social-api\node_modules\router\index.js:610:14)
+2025-07-09T00:17:58.179Z [31merror[39m: error stack in errorMiddleware: 
+2025-07-09T00:17:58.221Z [31merror[39m: error stack in errorMiddleware: 
+2025-07-09T05:29:26.619Z [32minfo[39m: Database connected successfuly
+2025-07-09T05:29:26.626Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T05:40:16.362Z [32minfo[39m: Database connected successfuly
+2025-07-09T05:40:16.369Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T05:40:52.455Z [32minfo[39m: Database connected successfuly
+2025-07-09T05:40:52.462Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T05:42:27.355Z [32minfo[39m: Database connected successfuly
+2025-07-09T05:42:27.363Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T05:42:36.828Z [32minfo[39m: Database connected successfuly
+2025-07-09T05:42:36.835Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T05:51:56.235Z [32minfo[39m: Database connected successfuly
+2025-07-09T05:51:56.242Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T05:52:03.831Z [32minfo[39m: Database connected successfuly
+2025-07-09T05:52:03.837Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T05:52:06.480Z [32minfo[39m: Database connected successfuly
+2025-07-09T05:52:06.487Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:01:25.707Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:01:25.714Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:02:44.486Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:02:44.493Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:03:29.121Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:03:29.129Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:10:11.340Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:10:11.347Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:10:27.303Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:10:27.310Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:13:39.754Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:13:39.761Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:14:32.977Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:14:32.984Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:14:58.533Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:14:58.540Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:17:42.770Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:17:42.777Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:19:04.018Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:19:04.025Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:19:31.451Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:19:31.467Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:20:09.565Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:20:09.572Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:22:53.465Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:22:53.472Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:24:13.471Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:24:13.479Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:27:33.982Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:27:33.989Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:33:53.809Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:33:53.816Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:35:36.472Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:35:36.479Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:36:15.148Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:36:15.155Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T06:36:23.239Z [32minfo[39m: Database connected successfuly
+2025-07-09T06:36:23.247Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T09:21:19.147Z [32minfo[39m: Database connected successfuly
+2025-07-09T09:21:19.221Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T09:55:47.231Z [32minfo[39m: Database connected successfuly
+2025-07-09T09:55:47.238Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T09:55:52.936Z [32minfo[39m: Database connected successfuly
+2025-07-09T09:55:52.943Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T09:57:27.291Z [32minfo[39m: Database connected successfuly
+2025-07-09T09:57:27.298Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T09:58:00.415Z [32minfo[39m: Database connected successfuly
+2025-07-09T09:58:00.422Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T10:01:21.496Z [32minfo[39m: Database connected successfuly
+2025-07-09T10:01:21.503Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T10:02:45.625Z [32minfo[39m: Database connected successfuly
+2025-07-09T10:02:45.632Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T10:02:53.301Z [32minfo[39m: Database connected successfuly
+2025-07-09T10:02:53.308Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T10:04:44.453Z [32minfo[39m: Database connected successfuly
+2025-07-09T10:04:44.459Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T10:05:48.807Z [32minfo[39m: Database connected successfuly
+2025-07-09T10:05:48.814Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T10:06:32.142Z [32minfo[39m: Database connected successfuly
+2025-07-09T10:06:32.149Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T10:07:57.072Z [32minfo[39m: Database connected successfuly
+2025-07-09T10:07:57.079Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T10:13:01.844Z [32minfo[39m: Database connected successfuly
+2025-07-09T10:13:01.851Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T10:15:19.610Z [32minfo[39m: Database connected successfuly
+2025-07-09T10:15:19.617Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T10:16:06.667Z [32minfo[39m: Database connected successfuly
+2025-07-09T10:16:06.675Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-09T10:42:14.015Z [32minfo[39m: Database connected successfuly
+2025-07-09T10:42:14.030Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T00:46:37.570Z [32minfo[39m: Database connected successfuly
+2025-07-10T00:46:37.634Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T01:03:27.956Z [32minfo[39m: Database connected successfuly
+2025-07-10T01:03:27.962Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T01:07:49.963Z [32minfo[39m: Database connected successfuly
+2025-07-10T01:07:49.970Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T01:09:00.026Z [32minfo[39m: Database connected successfuly
+2025-07-10T01:09:00.034Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T01:10:13.484Z [32minfo[39m: Database connected successfuly
+2025-07-10T01:10:13.491Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T01:13:12.783Z [32minfo[39m: Database connected successfuly
+2025-07-10T01:13:12.790Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T01:14:58.072Z [32minfo[39m: Database connected successfuly
+2025-07-10T01:14:58.079Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T01:15:00.266Z [32minfo[39m: Database connected successfuly
+2025-07-10T01:15:00.272Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T01:21:01.429Z [32minfo[39m: Database connected successfuly
+2025-07-10T01:21:01.436Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T01:24:07.919Z [32minfo[39m: Database connected successfuly
+2025-07-10T01:24:07.927Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T01:29:12.395Z [32minfo[39m: Database connected successfuly
+2025-07-10T01:29:12.402Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T01:31:04.099Z [32minfo[39m: Database connected successfuly
+2025-07-10T01:31:04.107Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T01:31:24.969Z [32minfo[39m: Database connected successfuly
+2025-07-10T01:31:24.976Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T01:33:27.552Z [32minfo[39m: Database connected successfuly
+2025-07-10T01:33:27.560Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T01:33:46.095Z [32minfo[39m: Database connected successfuly
+2025-07-10T01:33:46.103Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T06:05:07.794Z [32minfo[39m: Database connected successfuly
+2025-07-10T06:05:07.851Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T06:10:56.916Z [32minfo[39m: Database connected successfuly
+2025-07-10T06:10:56.922Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T06:16:55.468Z [32minfo[39m: Database connected successfuly
+2025-07-10T06:16:55.475Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T06:18:30.536Z [32minfo[39m: Database connected successfuly
+2025-07-10T06:18:30.543Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T06:20:16.602Z [32minfo[39m: Database connected successfuly
+2025-07-10T06:20:16.609Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T06:20:49.812Z [32minfo[39m: Database connected successfuly
+2025-07-10T06:20:49.819Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T06:21:49.302Z [32minfo[39m: Database connected successfuly
+2025-07-10T06:21:49.310Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T06:22:37.538Z [32minfo[39m: Database connected successfuly
+2025-07-10T06:22:37.545Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T06:23:51.865Z [32minfo[39m: Database connected successfuly
+2025-07-10T06:23:51.873Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T06:25:13.493Z [32minfo[39m: Database connected successfuly
+2025-07-10T06:25:13.500Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T06:34:37.867Z [32minfo[39m: Database connected successfuly
+2025-07-10T06:34:37.874Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T06:38:33.006Z [32minfo[39m: Database connected successfuly
+2025-07-10T06:38:33.013Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T08:11:44.248Z [32minfo[39m: Database connected successfuly
+2025-07-10T08:11:44.257Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T08:12:15.154Z [32minfo[39m: Database connected successfuly
+2025-07-10T08:12:15.173Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T13:03:11.577Z [32minfo[39m: Database connected successfuly
+2025-07-10T13:03:11.635Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T13:11:15.427Z [32minfo[39m: Database connected successfuly
+2025-07-10T13:11:15.434Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T13:59:11.326Z [32minfo[39m: Database connected successfuly
+2025-07-10T13:59:11.374Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T14:09:46.392Z [32minfo[39m: Database connected successfuly
+2025-07-10T14:09:46.417Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T14:10:43.570Z [32minfo[39m: Database connected successfuly
+2025-07-10T14:10:43.577Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T14:11:15.438Z [32minfo[39m: Database connected successfuly
+2025-07-10T14:11:15.445Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T14:13:45.240Z [32minfo[39m: Database connected successfuly
+2025-07-10T14:13:45.250Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T15:09:43.593Z [32minfo[39m: Database connected successfuly
+2025-07-10T15:09:43.676Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T15:13:22.944Z [32minfo[39m: Database connected successfuly
+2025-07-10T15:13:22.976Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T15:13:33.864Z [32minfo[39m: Database connected successfuly
+2025-07-10T15:13:33.871Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T15:30:22.113Z [32minfo[39m: Database connected successfuly
+2025-07-10T15:30:22.172Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-10T15:33:38.440Z [32minfo[39m: Database connected successfuly
+2025-07-10T15:33:38.499Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-11T12:51:58.923Z [32minfo[39m: Database connected successfuly
+2025-07-11T12:51:58.985Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-14T02:06:25.445Z [32minfo[39m: Database connected successfuly
+2025-07-14T02:06:25.483Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-14T02:10:25.633Z [32minfo[39m: Database connected successfuly
+2025-07-14T02:10:25.639Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
+2025-07-14T04:12:51.477Z [32minfo[39m: Database connected successfuly
+2025-07-14T04:12:51.483Z [32minfo[39m: Server listening on http://localhost:8080/api/v1/
