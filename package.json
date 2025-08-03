@@ -2,6 +2,19 @@
   "name": "mini-social-api",
   "version": "1.0.0",
   "main": "index.js",
+  "description": "A full-featured Mini Social Blog API (like Twitter) built with Node.js, TypeScript, and Sequelize",
+  "author": "Yaya Soumah <yaya-soumah@outlook.com>",
+  "keywords": [
+    "nodejs",
+    "express",
+    "typescript",
+    "sequelize",
+    "api",
+    "social blog",
+    "portfolio-project",
+    "backend"
+  ],
+  "license": "MIT",
   "scripts": {
     "dev": "tsx watch src/index.ts",
     "build": "tsc",
@@ -17,11 +30,7 @@
     "test:ui": "vitest --ui",
     "test:watch": "vitest watch",
     "start:worker": "tsc && node dist/workers/notificationWorker.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  },  
   "dependencies": {
     "bcrypt": "^6.0.0",
     "bullmq": "^5.56.3",
