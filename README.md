@@ -105,8 +105,8 @@ npm run tests
 
 Swagger UI available at:
 
-- **Swagger UI**: [View Live Docs](https://mini-social-api-u0gb.onrender.com/api-docs)
-- **Base URL**: `https://mini-social-api-u0gb.onrender.com/api/v1`
+- **Swagger UI**: [View Live Docs](https://mini-social-api.onrender.com/docs)
+- **Base URL**: `https://mini-social-api.onrender.com/api/v1`
 
 # Author
 
