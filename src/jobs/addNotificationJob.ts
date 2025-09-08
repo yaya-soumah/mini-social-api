@@ -1,4 +1,5 @@
 import { notificationQueue } from '../queues/notificationQueue.js'
+import logger from '../config/logger'
 
 type NotificationPayload = {
   recipientId: number
@@ -10,8 +11,8 @@ type NotificationPayload = {
 export async function enqueueNotification(data: NotificationPayload) {
   if (notificationQueue) {
     await notificationQueue.add('notify', data)
-    console.log('notification sent')
+    logger.info('notification sent')
   } else {
-    console.log('Notification skipped — no queue available (prod)')
+    logger.info('Notification skipped — no queue available (prod)')
   }
 }

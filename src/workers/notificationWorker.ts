@@ -3,12 +3,13 @@ import { Worker } from 'bullmq'
 import { connection } from '../queues/notificationQueue.js'
 import sequelize, { setupModels } from '../config/database'
 import { Notification } from '../models'
+import logger from '../config/logger.js'
 
 async function initializeWorker() {
   try {
     await sequelize.authenticate()
     setupModels(sequelize)
-    console.log('Sequelize initialized in worker')
+    logger.info('Sequelize initialized in worker')
 
     const worker = new Worker(
       'notifications',

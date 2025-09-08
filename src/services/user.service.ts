@@ -67,7 +67,6 @@ export class UserService {
   }
 
   static async updateUserProfile(userId: number, updates: Partial<any>) {
-    console.log('updateUserProfile in ctrl called', updates.role)
     const user = await UserRepository.findOneById(userId)
     if (!user) throw new AppError('User not found', 404)
 
